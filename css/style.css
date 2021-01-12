@@ -1,0 +1,59 @@
+.panda-carousel {
+    background-color: rgb(255, 182, 193, 0.3);
+    margin-top: 6em;
+
+}
+.carousel-price {
+    color: #ff3585;
+}
+.button {
+    background-color: #ff3585;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+}
+.category {
+    color: white;
+}
+.category-area {
+    margin-top: 6em;
+}
+.category-watch {
+    background-color: orange;
+}
+.category-bag {
+    background-color: orchid;
+}
+.category-shoe {
+    background-color: blue;
+}
+.bag,
+.shoe,
+.watch {
+    width: 30%;
+}
+.shoe-area {
+    margin-top: 6em;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+}
+.backpack-area {
+    margin-top: 6em;
+}
+.card-footer {
+    border: none;
+}
+.subscribe-area {
+    margin-top: 6em;
+    min-height: 300px;
+    background-color: rgb(255, 182, 193, 0.3); 
+}
+.subscribe-area h6 {
+    color: #6c757d;
+}
+footer {
+    margin-top: 6em;
+}
